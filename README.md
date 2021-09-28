@@ -19,7 +19,8 @@
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  - 😃 I'm Aman! 3rd year CSE student @IIIT Vadodara
+  
+- 😃 I'm Aman! 3rd year CSE student @IIIT Vadodara
 - 🔭 I’m currently working on Android development
 - 💬 I'm a CP enthusiast 
 - 🌱 Learning basics of Web Devlopment
@@ -35,8 +36,7 @@
 <code><img height="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="40" src=""></code>
-<code><img height="40" src=""></code>
+
 
 <br/>
 <br/>
