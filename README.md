@@ -2,11 +2,11 @@
 
 <a href="https://www.linkedin.com/in/aman-kothari-
 9b375319b/">
-  <img align="left" alt="Aman's LinkedIN" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="mailto:kothariaman01@gmail.com">
-  <img align="left" alt="Aman's Mail Id" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Aman's Mail Id" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AmanKothari20.AmanKothari20)
