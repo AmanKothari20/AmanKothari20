@@ -10,14 +10,14 @@
 <br />
 <br />
 
-- 😃 I'm Aman!
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  - 😃 I'm Aman!
 - 🔭 I’m currently working on Android development
 - 💬 I'm a CP enthusiast 
 - 🌱 Learning basics of Web Devlopment
 - 💼 My contact? [email](mailto:kothariaman01@gmail.com) :)
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 
 
 
