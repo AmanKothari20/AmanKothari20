@@ -30,11 +30,11 @@
 
 
 
-
+<br/>
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmanKothari20&show_icons=true&theme=gotham" alt="AmanKothari20" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmanKothari20&show_icons=true&theme=gotham" alt="AmanKothari20" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKothari20&&hide=CSS&layout=compact&theme=radical)]
 
 
 
