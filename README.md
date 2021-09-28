@@ -34,7 +34,8 @@
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmanKothari20&show_icons=true&theme=gotham" alt="AmanKothari20" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKothari20&&hide=CSS&layout=compact&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKothari20&&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
