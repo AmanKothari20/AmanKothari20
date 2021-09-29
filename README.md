@@ -9,6 +9,13 @@
   <img align="left" alt="Aman's Mail Id" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-kothari-9b375319b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kothari-9b375319b/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aman_kothari12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aman_kothari12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h201951018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h201951018" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kothariaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kothariaman" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amankothari123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankothari123456" height="30" width="40" /></a>
+</p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=AmanKothari20.AmanKothari20)
 
 
