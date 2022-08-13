@@ -24,10 +24,10 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 😃 I'm Aman! 3rd year CSE student @IIIT Vadodara
+- 😃 I'm Aman! final year CSE student @IIIT Vadodara
 - 🔭 I’m currently working on Android development
 - 💬 I'm a CP enthusiast 
-- 🌱 Learning basics of Web Devlopment
+- 🌱 Learning basics of Architecture based devlopment
 - 💼 My contact? [email](mailto:kothariaman01@gmail.com) :)
 
 
